@@ -1,6 +1,6 @@
 # Alimentador automático IOT
 ## Como funciona?
-### a pessoa coloca no browser o endereço IP que apareçe no display (após o alimentador ser conectado na energia), lá a pessoa escolhe um horário e, todos os dias nesse mesmo horário, o servo-motor é acionado e a porta é aberta para que a ração caia.
+### O indivíduo coloca no browser o endereço IP que apareçe no display (após o alimentador ser conectado na energia), lá a pessoa escolhe um horário e, todos os dias nesse mesmo horário, o servo-motor é acionado e a porta é aberta para que a ração caia.
 ## Componentes:
 ### - fios jumpers
 ### - Display OLED
