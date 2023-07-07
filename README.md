@@ -17,3 +17,4 @@
 ![a1](https://github.com/Gustavo-erades/Alimentador-automatico-iot/assets/108373134/b5cad1dc-1664-4c65-a3ee-38e428a863cc)
 ![a2](https://github.com/Gustavo-erades/Alimentador-automatico-iot/assets/108373134/e9dd1162-a1f1-4210-a7bc-084b7217deef)
 ![WhatsApp Image 2023-06-15 at 10 45 16](https://github.com/Gustavo-erades/Alimentador-automatico-iot/assets/108373134/a0f04ed1-ff01-4f79-abe2-ae2d9fb803a7)
+![a1](https://github.com/Gustavo-erades/Alimentador-automatico-iot/assets/108373134/e2f5967c-48f1-4c09-bf4e-15b45a01b773)
